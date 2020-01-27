@@ -1,0 +1,8 @@
+{
+	"required":{
+		"slim/slim": "2.4.2"
+	},
+	"require": {
+		"sendgrid/sendgrid": "^5.0"
+	}
+}
